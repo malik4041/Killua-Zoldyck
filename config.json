@@ -1,7 +1,7 @@
 {
   "APIs": {
     "zenz": "https://api.zahwazein.xyz",
-    "apikey": "YOURAPIKEY"
+    "apikey": "3ce5ad372f37"
   },
   "options": {
     "autoRead": false,
@@ -10,12 +10,12 @@
     "limitGame": 20
   },
   "exif": {
-    "packname": "zenzapis",
-    "author": "https://zenzapis.xyz"
+    "packname": "Mohamed",
+    "author": "mohamed"
   },
   "owner": [
     "62812xxx"
   ],
-  "timezone": "Asia/Jakarta",
-  "footer": "Powered by https://zenzapis.xyz"
+  "timezone": "Africa/Nairobi",
+  "footer": "Spider"
 }
